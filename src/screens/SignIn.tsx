@@ -28,6 +28,7 @@ export function SignIn() {
       </Center>
 
       <Input placeholder="E-mail" />
+      <Input placeholder="Senha" />
     </VStack>
   );
 }
